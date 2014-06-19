@@ -1,4 +1,5 @@
-first-project
-=============
+# First-project
+This is a project to practice Git and GitHub
 
-this is a project to practice Git and GitHub
+## Maintainer
+- Yudi Sutanto
